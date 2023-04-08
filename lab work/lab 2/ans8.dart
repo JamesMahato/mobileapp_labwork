@@ -1,0 +1,3 @@
+class simple_app(){
+
+}
